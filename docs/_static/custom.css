@@ -1,0 +1,9 @@
+@import url("tokens.css");
+body{font-family:var(--dw-font)}
+:root{--color-brand-primary:var(--dw-accent);--color-brand-content:#a85f35;--color-link:#a85f35}
+body[data-theme="dark"]{--color-brand-content:var(--dw-accent);--color-link:var(--dw-accent)}
+@media (prefers-color-scheme:dark){body:not([data-theme="light"]){--color-brand-content:var(--dw-accent);--color-link:var(--dw-accent)}}
+.sd-card,.video-wrap{border-radius:var(--dw-radius)}
+.sd-card-title{color:var(--color-brand-content)}
+.video-wrap{position:relative;aspect-ratio:16/9;overflow:hidden;margin:1rem 0}
+.video-wrap iframe{position:absolute;inset:0;width:100%;height:100%;border:0}

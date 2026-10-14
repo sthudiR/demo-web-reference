@@ -1,0 +1,5 @@
+.venv/
+docs/_build/
+docs/xml/
+docs/_api_body.rst
+__pycache__/

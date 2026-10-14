@@ -1,0 +1,1 @@
+{"id":"demo-web-reference","title":"Coffee Atlas","blurb":"A structured reference to coffee origins, brew methods, ratios and a glossary, built with Sphinx and Furo, with C++ API docs via Doxygen and Breathe.","framework":"Sphinx","tags":["sphinx","furo","reference","docs","doxygen"],"url":"https://sthudir.github.io/demo-web-reference/","thumbnail":"thumbnail.svg"}
