@@ -18,7 +18,7 @@ html_baseurl = "https://sthudir.github.io/demo-web-reference/"
 html_theme = "furo"
 html_title = "Coffee Atlas"
 html_theme_options = {
-    "announcement": '<a href="https://sthudir.github.io/demo-web-hub/">&larr; Back to demo-web hub</a>',
+    "announcement": '<a href="https://sthudir.github.io/demo-web-hub/">&larr; All sites</a>',
 }
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
