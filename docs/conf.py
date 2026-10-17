@@ -17,6 +17,9 @@ myst_heading_anchors = 3
 html_baseurl = "https://sthudir.github.io/demo-web-reference/"
 html_theme = "furo"
 html_title = "Coffee Atlas"
+html_theme_options = {
+    "announcement": '<a href="https://sthudir.github.io/demo-web-hub/">&larr; Back to demo-web hub</a>',
+}
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 html_extra_path = ["_extra"]  # site.json + thumbnail.svg land at the output root
