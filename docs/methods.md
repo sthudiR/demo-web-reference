@@ -18,3 +18,11 @@ Add coarse coffee and hot water, wait four minutes, press gently and pour right 
 Steep coarse coffee in cold water in the fridge overnight, then strain. See {doc}`ratios` for amounts.
 :::
 ::::
+
+## Watch it
+
+A short video on how coffee is made.
+
+```{raw} html
+<div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ" title="Coffee video" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+```
