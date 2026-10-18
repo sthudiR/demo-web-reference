@@ -2,6 +2,8 @@
 
 A friendly reference to where coffee comes from, how people brew it, and the numbers that make a good cup.
 
+> **Try this:** press `/` and search for "espresso" to jump straight to it.
+
 ```{raw} html
 <div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ" title="Coffee video" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 ```
@@ -29,6 +31,18 @@ How much water for how much coffee.
 :link-type: doc
 Plain-language definitions.
 :::
+::::
+
+::::{dropdown} Behind this page
+| | |
+|---|---|
+| **Built with** | Sphinx with the Furo theme; Doxygen and Breathe for the C++ API pages |
+| **The numbers** | 0.7 MB · ready in about 0.5 s · builds in 31 s · 176 lines of source · you write Markdown |
+| **Good for** | Reference docs and API lookup, including C++ and ROS |
+| **Not for** | Interactive demos |
+| **More** | [Source on GitHub](https://github.com/sthudiR/demo-web-reference) · [What can I use for…?](https://sthudir.github.io/demo-web-hub/which/) · [Back to hub](https://sthudir.github.io/demo-web-hub/) |
+
+Ready time: median of 3 cold loads, 17 Oct 2026, one home connection.
 ::::
 
 ```{toctree}
