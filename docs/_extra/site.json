@@ -21,6 +21,6 @@
     "build": "31 s",
     "lines": 176
   },
-  "goodFor": "Reference docs and API lookup, including C++ and ROS.",
+  "goodFor": "Reference docs and API lookup, including C++.",
   "notFor": "Interactive demos."
 }
