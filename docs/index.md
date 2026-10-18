@@ -4,10 +4,6 @@ A friendly reference to where coffee comes from, how people brew it, and the num
 
 > **Try this:** press `/` and search for "espresso" to jump straight to it.
 
-```{raw} html
-<div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ" title="Coffee video" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-```
-
 ::::{grid} 1 1 2 2
 :gutter: 3
 
