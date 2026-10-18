@@ -19,3 +19,6 @@ Embed with a raw HTML block (see `docs/index.md`): a `youtube-nocookie.com` ifra
 
 ## Base path
 Served at `/demo-web-reference/`. Sphinx emits relative links, and `html_baseurl` is `https://sthudir.github.io/demo-web-reference/`. `site.json` and `thumbnail.svg` come from `docs/_extra` via `html_extra_path`.
+
+## Licence
+Public domain (CC0). Everything here is made up for a demo; use and share it freely. See `LICENSE`.

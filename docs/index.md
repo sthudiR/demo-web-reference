@@ -38,7 +38,7 @@ Plain-language definitions.
 |---|---|
 | **Built with** | Sphinx with the Furo theme; Doxygen and Breathe for the C++ API pages |
 | **The numbers** | 0.7 MB · ready in about 0.5 s · builds in 31 s · 176 lines of source · you write Markdown |
-| **Good for** | Reference docs and API lookup, including C++ and ROS |
+| **Good for** | Reference docs and API lookup, including C++ |
 | **Not for** | Interactive demos |
 | **More** | [Source on GitHub](https://github.com/sthudiR/demo-web-reference) · [What can I use for…?](https://sthudir.github.io/demo-web-hub/which/) · [Back to hub](https://sthudir.github.io/demo-web-hub/) |
 

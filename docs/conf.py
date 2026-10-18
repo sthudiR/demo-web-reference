@@ -8,7 +8,7 @@ ROOT = HERE.parent
 
 project = "Coffee Atlas"
 author = "Coffee Atlas contributors"
-copyright = "2026, Coffee Atlas contributors"
+copyright = "Public domain (CC0). Free to use and share."
 
 extensions = ["myst_parser", "sphinx_design"]
 myst_enable_extensions = ["colon_fence", "deflist"]
