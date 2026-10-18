@@ -1,1 +1,26 @@
-{"id":"demo-web-reference","title":"Coffee Atlas","blurb":"A structured reference to coffee origins, brew methods, ratios and a glossary, built with Sphinx and Furo, with C++ API docs via Doxygen and Breathe.","framework":"Sphinx","tags":["sphinx","furo","reference","docs","doxygen"],"url":"https://sthudir.github.io/demo-web-reference/","thumbnail":"thumbnail.svg"}
+{
+  "id": "demo-web-reference",
+  "title": "Coffee Atlas",
+  "blurb": "A structured reference to coffee origins, brew methods, ratios and a glossary, built with Sphinx and Furo, with C++ API docs via Doxygen and Breathe.",
+  "framework": "Sphinx",
+  "tags": [
+    "sphinx",
+    "furo",
+    "reference",
+    "docs",
+    "doxygen"
+  ],
+  "url": "https://sthudir.github.io/demo-web-reference/",
+  "thumbnail": "thumbnail.svg",
+  "kind": "site",
+  "preview": "preview",
+  "metrics": {
+    "size": "0.7 MB",
+    "ready": "0.5 s",
+    "writes": "Markdown",
+    "build": "31 s",
+    "lines": 176
+  },
+  "goodFor": "Reference docs and API lookup, including C++ and ROS.",
+  "notFor": "Interactive demos."
+}
