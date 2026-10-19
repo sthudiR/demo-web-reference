@@ -36,7 +36,7 @@ Plain-language definitions.
 | **The numbers** | 0.7 MB · ready in about 0.5 s · builds in 31 s · 176 lines of source · you write Markdown |
 | **Good for** | Reference docs and API lookup, for Python, C++ and other languages |
 | **Not for** | Interactive demos |
-| **More** | [Source on GitHub](https://github.com/sthudiR/demo-web-reference) · [What can I use for…?](https://sthudir.github.io/demo-web-hub/which/) · [Back to hub](https://sthudir.github.io/demo-web-hub/) |
+| **More** | [Source on GitHub](https://github.com/sthudiR/demo-web-reference) · [Pick your tool](https://sthudir.github.io/demo-web-hub/which/) · [Back to hub](https://sthudir.github.io/demo-web-hub/) |
 
 Ready time: median of 3 cold loads, 17 Oct 2026, one home connection.
 ::::
