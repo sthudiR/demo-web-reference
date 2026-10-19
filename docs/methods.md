@@ -26,3 +26,5 @@ A short video on how coffee is made.
 ```{raw} html
 <div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ" title="Coffee video" loading="lazy" allow="accelerometer; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 ```
+
+*Placeholder video: it's here to show how embedding works in this framework.*
