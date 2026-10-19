@@ -30,6 +30,7 @@ html_theme_options = {
 }
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
+html_js_files = [("//gc.zgo.at/count.js", {"data-goatcounter": "https://demo-web.goatcounter.com/count", "async": "async"})]
 html_extra_path = ["_extra"]  # site.json + thumbnail.svg land at the output root
 exclude_patterns = ["_build", "_api_*.rst", "xml", "Thumbs.db", ".DS_Store"]
 
