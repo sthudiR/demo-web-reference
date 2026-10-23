@@ -33,12 +33,12 @@ Plain-language definitions.
 | | |
 |---|---|
 | **Built with** | Sphinx with the Furo theme; Doxygen and Breathe for the C++ API pages |
-| **The numbers** | 0.7 MB · ready in about 0.5 s · builds in 31 s · 176 lines of source · you write Markdown |
+| **The numbers** | 42 KB to load · ready in about 0.2 s · builds in 32 s · 190 lines of source · you write Markdown |
 | **Good for** | Reference docs and API lookup, for Python, C++ and other languages |
 | **Not for** | Interactive demos |
 | **More** | [Source on GitHub](https://github.com/sthudiR/demo-web-reference) · [Pick your tool](https://sthudir.github.io/demo-web-hub/which/) · [Back to hub](https://sthudir.github.io/demo-web-hub/) |
 
-Ready time: median of 3 cold loads, 17 Oct 2026, one home connection.
+Ready time: median of 5 cold loads on one home connection, 23 Oct 2026. Size is what a first visit downloads. Build time is the median of the last 5 GitHub Actions builds and includes installing the tools.
 ::::
 
 ```{toctree}

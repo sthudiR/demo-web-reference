@@ -15,11 +15,11 @@
   "kind": "site",
   "preview": "preview",
   "metrics": {
-    "size": "0.7 MB",
-    "ready": "0.5 s",
+    "size": "42 KB",
+    "ready": "0.2 s",
     "writes": "Markdown",
-    "build": "31 s",
-    "lines": 176
+    "build": "32 s",
+    "lines": 190
   },
   "goodFor": "Reference docs and API lookup, for Python, C++ and other languages.",
   "notFor": "Interactive demos."
